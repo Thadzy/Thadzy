@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Multipotentialite
 -----------------
 
-I am duck person I can do everything just give me the time, I've been coding for 1 year I can develop Web Application, IoT, and Artificial Intelligence
+I am duck person I can do everything just give me the time, I've been coding for 1 year I can develop Web Application, IoT, and Artificial Intelligence and I'm interest in innovation
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Thadzy025@gmail.com](mailto:Thadzy025@gmail.com)
