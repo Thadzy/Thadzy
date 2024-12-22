@@ -3,6 +3,8 @@
 
 ![](https://media.tenor.com/4KA6bqLv2RoAAAAd/br2049.gif)
 
+<div class="tenor-gif-embed" data-postid="25463872" data-share-method="host" data-aspect-ratio="2.44275" data-width="100%"><a href="https://tenor.com/view/br2049-gif-25463872">Br2049 GIF</a>from <a href="https://tenor.com/search/br2049-gifs">Br2049 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 👯 I’m looking to collaborate on **Sustainability**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Md6c2-Dt1AQik0Q99wttsagONqAfWbQn/view?usp=sharing](https://drive.google.com/file/d/1Md6c2-Dt1AQik0Q99wttsagONqAfWbQn/view?usp=sharing)
