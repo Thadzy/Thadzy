@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/" height="30" width="40" /></a>
-<a href="https://kaggle.com/400943-ทัดชัย" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="400943-ทัดชัย" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/](https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/" height="30" width="40" /></a>
+<a href="[https://kaggle.com/400943-ทัดชัย](https://www.kaggle.com/thadzy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[400943-ทัดชัย](https://www.kaggle.com/thadzy)" height="30" width="40" /></a>
 <a href="https://fb.com/thadchai determination" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thadchai determination" height="30" width="40" /></a>
 <a href="https://instagram.com/sh.adzyt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh.adzyt_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thadzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thadzy" height="30" width="40" /></a>
