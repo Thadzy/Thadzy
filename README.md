@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Thadchai Suksaran (Thadzy)</h1>
 <h3 align="center">I'm currently studying Robotics and am deeply immersed in mechatronics, electronics, and programming. I've spent two years fully engrossed in web development, working on both frontend and backend, with a growing fascination for AI and a strong focus on sustainability in technology.</h3>
 
+<div class="tenor-gif-embed" data-postid="25463872" data-share-method="host" data-aspect-ratio="2.44275" data-width="100%"><a href="https://tenor.com/view/br2049-gif-25463872">Br2049 GIF</a>from <a href="https://tenor.com/search/br2049-gifs">Br2049 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 👯 I’m looking to collaborate on **Sustainability**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Md6c2-Dt1AQik0Q99wttsagONqAfWbQn/view?usp=sharing](https://drive.google.com/file/d/1Md6c2-Dt1AQik0Q99wttsagONqAfWbQn/view?usp=sharing)
