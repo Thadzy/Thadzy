@@ -1,16 +1,14 @@
 <h1 align="center">Hi, I'm Thadchai Suksaran (Thadzy)</h1>
 <h3 align="center">I'm currently studying Robotics and am deeply immersed in mechatronics, electronics, and programming. I've spent two years fully engrossed in web development, working on both frontend and backend, with a growing fascination for AI and a strong focus on sustainability in technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thadzy" alt="thadzy" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Sustainability**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Md6c2-Dt1AQik0Q99wttsagONqAfWbQn/view?usp=sharing](https://drive.google.com/file/d/1Md6c2-Dt1AQik0Q99wttsagONqAfWbQn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thadchai suksaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thadchai suksaran" height="30" width="40" /></a>
-<a href="https://kaggle.com/thadzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thadzy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thadchai-suksaran-04b3872b7/" height="30" width="40" /></a>
+<a href="https://kaggle.com/400943-ทัดชัย" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="400943-ทัดชัย" height="30" width="40" /></a>
 <a href="https://fb.com/thadchai determination" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thadchai determination" height="30" width="40" /></a>
 <a href="https://instagram.com/sh.adzyt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh.adzyt_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thadzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thadzy" height="30" width="40" /></a>
