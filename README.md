@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thadchai Suksaran (Thadzy)</h1>
-<h3 align="center">Robotics Student. Interest In AI, Software Development and Sustainability</h3>
+<h3 align="center">I'm a robotics student with a strong background in mechatronics, electronics, and programming. I'm deeply interested in AI and focused on sustainable technology.</h3>
 
 ![](br2049.gif)
 
