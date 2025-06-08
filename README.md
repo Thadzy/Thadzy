@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thadchai Suksaran (Thadzy)</h1>
 <h3 align="center">Robotics Student. Interest In AI, Software Development and Sustainability</h3>
 
-![](br2049.gif)Add commentMore actions
+![](br2049.gif)
 <div style="text-align: center;">
   <img src="br2049.gif" alt="Br2049 GIF">
 </div>
