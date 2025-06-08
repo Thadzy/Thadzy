@@ -2,9 +2,6 @@
 <h3 align="center">Robotics Student. Interest In AI, Software Development and Sustainability</h3>
 
 ![](br2049.gif)
-<div style="text-align: center;">
-  <img src="br2049.gif" alt="Br2049 GIF">
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
